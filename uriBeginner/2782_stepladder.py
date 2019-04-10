@@ -22,3 +22,14 @@ Print a line containing an integer representing how many stepladders there are i
 ====Output====
 4
 '''
+N = int(input())
+seq = input().split()
+seq = list(map(int, seq))
+# print(seq)
+
+qtd_escadinhas = 1
+for i in range(2, N):  
+  if (seq[i] - seq[i-1]) != (seq[i-1] - seq[i-2]):
+    qtd_escadinhas += 1
+
+print(qtd_escadinhas)
