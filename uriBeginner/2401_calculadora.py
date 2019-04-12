@@ -1,6 +1,6 @@
 '''
 # -*- coding: utf-8 -*-
-2401_calculadora
+====2401_calculadora====
 Solicitando Boas Contas (SBC) é uma organização de inspeção de calculadoras. Todos os 
 fabricantes procuram ter o selo de qualidade da SBC, que faz com que os clientes comprem 
 o produto sem preocupação com contas erradas.

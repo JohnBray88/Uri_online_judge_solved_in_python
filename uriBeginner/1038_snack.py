@@ -7,7 +7,8 @@ This is a very simple program with the only intention of practice of selection c
             ===table of products??????===
 
 Input
-The input file contains two integer numbers X and Y. X is the product code and Y is the quantity of this item according to the above table.
+The input file contains two integer numbers X and Y. X is the product code and Y is the quantity of this item according
+to the above table.
 
 Output
 The output must be a message "Total: R$ " followed by the total value to be paid, with 2 digits after the decimal point.

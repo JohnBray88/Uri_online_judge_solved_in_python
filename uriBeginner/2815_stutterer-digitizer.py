@@ -1,6 +1,6 @@
 '''
 # -*- coding: utf-8 -*-
-2815_stutterer-digitizer
+====2815_stutterer-digitizer====
 Francisco Yote is a different stutterer. Not only does he speak repeating syllables as strangely when he typed a 
 text he repeats some syllables, making the reading very annoying. He repeats just syllables that have exactly 2 
 letters and never repeats a syllable different than the first syllable of the word. He repeats just one time each 
@@ -24,6 +24,7 @@ comprar mamais 2 quilos.
 Juca comprou farinha na mercearia e pagou 4 reais o quilo. A mae de Juca pediu para ele 
 comprar mais 2 quilos.
 '''
+
 entrada = input().split()
 for i in range(len(entrada)):
     if len(entrada[i]) > 3:
@@ -31,4 +32,21 @@ for i in range(len(entrada)):
             entrada[i] = entrada[i][2:]
 entrada = " ".join(entrada)
 print(entrada)
+
+'''
+#Outra possibilidade
+texto_inicial = input()
+texto_final = ' '
+
+lista_texto = texto_inicial.split()
+
+for i in range(len(lista_texto)):
+  palavra = lista_texto[i]
+  if palavra[0:2] == palavra[2:4]:
+    palavra = palavra[2:]
+    lista_texto[i] = palavra
+
+# print(lista_texto)
+print(texto_final.join(lista_texto))
+'''
 
