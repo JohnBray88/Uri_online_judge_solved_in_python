@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beb2659b-897e-4f6b-8f04-0be328451415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uriBeginner/2058_triangles_and_regular_polygons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uri_online_judge_solved.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uri_online_judge_solved.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uriBeginner/1036_bhaskara's_formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/uriBeginner/1036_bhaskara's_formula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uriBeginner/1038_snack.py" beforeDir="false" afterPath="$PROJECT_DIR$/uriBeginner/1038_snack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uriBeginner/2057_time_zone.py" beforeDir="false" afterPath="$PROJECT_DIR$/uriBeginner/2057_time_zone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uriBeginner/2401_calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/uriBeginner/2401_calculadora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uriBeginner/2815_stutterer-digitizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/uriBeginner/2815_stutterer-digitizer.py" afterDir="false" />
-    </list>
+    <list default="true" id="beb2659b-897e-4f6b-8f04-0be328451415" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,23 +75,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="uri_online_judge_solved" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uri_online_judge_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="uri_online_judge_solved_in_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uri_online_judge_solved_in_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="uri_online_judge_solved" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uri_online_judge_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="uri_online_judge_solved_in_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uri_online_judge_solved_in_python" type="462c0819:PsiDirectoryNode" />
               <item name="uriBeginner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uri_online_judge_solved_in_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
